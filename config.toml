@@ -1,0 +1,21 @@
+baseURL = 'https://qoheleth.makyo.ink'
+languageCode = 'en-us'
+title = 'Qoheleth'
+theme = 'maddybook'
+paginatePath = ''
+disablePathToLower = true
+
+[permalinks]
+    post = '/:filename/'
+
+[params]
+    author = 'Madison Scott-Clary'
+    home = 'https://makyo.ink'
+    copyright = 2021
+    customCSS = ['css/qoheleth.css']
+    subtitle = 'Post-Self book I'
+    subtitleLink = 'https://post-self.makyo.ink'
+
+[markup.goldmark.renderer]
+    unsafe = true
+
