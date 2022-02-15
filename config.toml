@@ -11,8 +11,8 @@ disablePathToLower = true
 [params]
     author = 'Madison Scott-Clary'
     home = 'https://makyo.ink'
-    copyright = 2021
-    customCSS = ['css/qoheleth.css']
+    copyright = 2020
+    customCSS = ['/css/qoheleth.css']
     subtitle = 'Post-Self book I'
     subtitleLink = 'https://post-self.makyo.ink'
 
