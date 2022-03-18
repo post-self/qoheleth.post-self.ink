@@ -1,8 +1,9 @@
 ![Qoheleth cover](/cover.png)
 
-<p style="text-indent: 0; text-align: center">
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/qoheleth-ebook">Order ebook</a> <a class="gumroad-button" href="https://makyo-ink.square.site/product/qoheleth/7">Order paperback</a>
+<p class="buy">
+<a href="https://makyo.itch.io/qoheleth" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/qoheleth/7" target="_blank">Order paperback</a> 
+<a href="https://anchor.fm/post-self" target="_blank">Listen to the podcast</a>
 </p>
 
 > "All artists search. I search for stories, in this post-self age.  What happens when you can no longer call yourself an individual, when  you have split your sense of self among several instances? How do you  react? Do you withdraw into yourself, become a hermit? Do you expand  until you lose all sense of identity? Do you fragment? Do you go about  it deliberately, or do you let nature and chance take their course?"
@@ -15,7 +16,9 @@ And, nearly a century on, society still struggles with the ramifications of thos
 
 -----
 
-<p style="text-indent: 0; text-align: center">Strapped for cash? <a href="/read">Read online for free!</a><br>Ready to move on to book II? You can find <em>Toledot</em> <a href="https://toledot.makyo.ink">here</a>.</p>
+<p class="buy">Also available at several fine independent booksellers (and many much larger ones).</p>
+<p class="buy">Strapped for cash? <a href="/read">Read online for free!</a></p>
+<p class="buy">Ready to move on to book II? <a href="https://toledot.makyo.ink">Read <em>Toledot</em>.</a></p>
 
 
 ## Read what people are saying about *Qoheleth*
