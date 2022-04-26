@@ -1,4 +1,4 @@
-baseURL = 'https://qoheleth.makyo.ink'
+baseURL = 'https://qoheleth.post-self.ink'
 languageCode = 'en-us'
 title = 'Qoheleth'
 theme = 'maddybook'
@@ -14,7 +14,7 @@ disablePathToLower = true
     copyright = 2020
     customCSS = ['/css/qoheleth.css']
     subtitle = 'Post-Self book I'
-    subtitleLink = 'https://post-self.makyo.ink'
+    subtitleLink = 'https://post-self.ink'
 
 [markup.goldmark.renderer]
     unsafe = true
