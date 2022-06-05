@@ -18,7 +18,7 @@ And, nearly a century on, society still struggles with the ramifications of thos
 
 <p class="buy">Also available at several fine independent booksellers (and many much larger ones).</p>
 <p class="buy">Strapped for cash? <a href="/read">Read online for free!</a></p>
-<p class="buy">Ready to move on to book II? <a href="https://toledot.makyo.ink">Read <em>Toledot</em>.</a></p>
+<p class="buy">Ready to move on to book II? <a href="https://toledot.post-self.ink">Read <em>Toledot</em>.</a></p>
 
 
 ## Read what people are saying about *Qoheleth*
