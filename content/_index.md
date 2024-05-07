@@ -4,7 +4,6 @@
 <a href="https://makyo.itch.io/qoheleth" target="_blank">Order ebook</a>
 <a href="https://makyo-ink.square.site/product/qoheleth/7" target="_blank">Order paperback</a> 
 <a href="https://anchor.fm/post-self" target="_blank">Listen to the podcast</a>
-<a href="https://makyo.substack.com/s/post-self">Read it serialized on Substack</a>
 </p>
 
 > "All artists search. I search for stories, in this post-self age.  What happens when you can no longer call yourself an individual, when  you have split your sense of self among several instances? How do you  react? Do you withdraw into yourself, become a hermit? Do you expand  until you lose all sense of identity? Do you fragment? Do you go about  it deliberately, or do you let nature and chance take their course?"
