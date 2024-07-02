@@ -13,7 +13,7 @@ disablePathToLower = true
     home = 'https://makyo.ink'
     copyright = 2020
     customCSS = ['/css/qoheleth.css']
-    subtitle = 'Post-Self book I'
+    subtitle = 'Post-Self Cycle book I'
     subtitleLink = 'https://post-self.ink'
 
 [markup.goldmark.renderer]
